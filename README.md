@@ -7,7 +7,7 @@
 [![Mail Badge](https://img.shields.io/badge/-finha.farias@outlook.com-0072C6?style=flat-square&logo=microsoft%20outlook&logoColor=white&link=mailto:finha.farias@outlook.com)](mailto:finha.farias@outlook.com)
 
 - 👨🏻‍💻 I'm a Software Engineer Intern at [IBM](https://github.com/IBM)
-- 👨🏻‍🎓 I'm currently in the 8<sup>th</sup> period of computer engineering
+- 👨🏻‍🎓 I'm currently in the 9<sup>th</sup> period of computer engineering
 - 💬 Ask me about anything i could help or might result in a cool conversation
 - 💻 I'm looking to collaborate for open source projects 
 - 📫 Talk to me using the badges above
